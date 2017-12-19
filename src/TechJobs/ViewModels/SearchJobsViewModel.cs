@@ -28,7 +28,7 @@ namespace TechJobs.ViewModels
 
         public SearchJobsViewModel()
         {
-            // Populate the list of all columns
+            //Populate the list of all columns
 
             Columns = new List<JobFieldType>();
 
